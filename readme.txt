@@ -3,7 +3,7 @@ Contributors: rkjellberg
 Tags: remove hentry, fix google webmaster tools errors, hentry errors fixer, hatom fixer, hatom webmaster tools
 Requires at least: 3.7
 Tested up to: 4.4.2
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,11 +19,10 @@ This will NOT work with Twenty T*-themes or other themes where the .hentry-class
 
 == Changelog ==
 
-= 1.1 =
-*Release Date - 27 feb 2016*
+= 1.2.1 =
+*Release Date - 6 mars 2016*
 
-= 1.0 =
-*Release Date - 27 feb 2016*
+- First commit :) 
 
 == Frequently Asked Questions ==
 = Can this help me to remove errors in Google Webmaster Tools =

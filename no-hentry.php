@@ -6,7 +6,7 @@ namespace YoungMedia;
  * Description: Remove .hentry-class with a post_class-filter to get rid of errors in Google Webmaster Tools.
  * Author: Rasmus Kjellberg
  * Author URI: https://www.rasmuskjellberg.se
- * Version: 1.2
+ * Version: 1.2.1
  */
 
 /**
